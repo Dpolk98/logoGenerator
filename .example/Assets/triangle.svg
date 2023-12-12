@@ -1,0 +1,7 @@
+ <svg height="500" width="500">
+
+		    <polygon points="250,60 100,400 400,400" class="triangle" />
+
+        <text x="150" y="150" font-size="60" text-anchor="middle" fill=${shapeColor}>`${titleInput}`</text>
+
+</svg>
